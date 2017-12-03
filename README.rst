@@ -1,2 +1,2 @@
 .. raw:: html
-   <hr width=50 size=10>hell
+   <hr width=50 size=10>
