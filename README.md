@@ -1,5 +1,8 @@
 <HTML>
 <body>
-  <p>farzi</p> 
+  <p id="6">farzi</p>
+  <script>
+  document.write(687)
+  </script>
  </body>
 </HTML>
